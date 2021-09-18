@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lloydsibson@gmail.com**
 
-- 📄 Know about my experiences [https://www.lloydsibson.com/static/media/lloyd-sibson-ba-front-end-developer-cv-2021.06007037.pdf](https://www.lloydsibson.com/static/media/lloyd-sibson-ba-front-end-developer-cv-2021.06007037.pdf)
+- 📄 Know about my experiences [https://bit.ly/3EuGsfv](https://bit.ly/3EuGsfv)
 
 - ⚡ Fun fact **Worked with over 130+ clients in a freelance capacity and was the dedicated Rolex Developer for the largest supplier of Rolex Watches in the UK**
 
