@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Gatsby, GraphQL, Redux, TypeScript & Unit Testing**
 
-- 👨‍💻 All of my projects are available at [https://www.lloydsibson.com](https://www.lloydsibson.com)
+- 👨‍💻 See my portfolio website at [https://www.lloydsibson.com](https://www.lloydsibson.com)
 
 - 💬 Ask me about **HTML, CSS, SASS, JavaScript, React**
 
