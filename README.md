@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Lloyd</h1>
 <h3 align="center">A passionate frontend developer and designer from Leicester, United Kingdom</h3>
 
