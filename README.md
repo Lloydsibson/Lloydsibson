@@ -17,7 +17,7 @@
 
 - 📄 Find my latest CV here [https://bit.ly/3EuGsfv](https://bit.ly/3EuGsfv)
 
-- ⚡ Fun fact **Worked with over 130+ clients in a freelance capacity and was the dedicated Rolex Developer for the largest supplier of Rolex Watches in the UK**
+- ⚡ Fun fact **I was the dedicated Rolex Developer for the largest supplier of Rolex Watches in the UK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
