@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lloyd</h1>
-<h3 align="center">A passionate frontend developer and designer from Leicester, United Kingdom</h3>
+<h3 align="center">A passionate Front End Developer & Designer from Leicester, United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydsibson&label=Profile%20views&color=0e75b6&style=flat" alt="lloydsibson" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.lloydsibson.com/static/media/lloyd-sibson-ba-front-end-developer-cv-2021.06007037.pdf](https://www.lloydsibson.com/static/media/lloyd-sibson-ba-front-end-developer-cv-2021.06007037.pdf)
 
-- ⚡ Fun fact **Worked with over 130+ clients in a freelance capacity. Also I've worked with big brand names such as Rolex, Gucci, Armani, Omega, TAG etc**
+- ⚡ Fun fact **Worked with over 130+ clients in a freelance capacity and I've worked with big brand names such as Rolex, Gucci, Armani, Omega, TAG etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
