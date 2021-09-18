@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lloyd</h1>
+<h1 align="center">Hi 👋, I'm Lloyd Sibson BA (HONS)</h1>
 <h3 align="center">A passionate Front End Developer & Designer from Leicester, United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydsibson&label=Profile%20views&color=0e75b6&style=flat" alt="lloydsibson" /> </p>
