@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lloyd</h1>
 <h3 align="center">A passionate Front End Developer & Designer from Leicester, United Kingdom</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydsibson&label=Profile%20views&color=0e75b6&style=flat" alt="lloydsibson" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lloydsibson" alt="lloydsibson" /></a> </p>
-
 - 🔭 I’m currently working on [Arclight Music](https://www.arclightpromotions.co.uk/)
 
 - 🌱 I’m currently learning **Gatsby, GraphQL, Redux, TypeScript & Unit Testing**
