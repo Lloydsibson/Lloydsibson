@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Arclight Music](https://www.arclightpromotions.co.uk/)
 
-- 🌱 I’m currently learning **Gatsby, GraphQL, Redux, TypeScript & Unit Testing**
+- 🌱 I’m currently learning **Gatsby, GraphQL, & Web Accessibility**
 
 - 👨‍💻 See my portfolio website at [https://www.lloydsibson.com](https://www.lloydsibson.com)
 
