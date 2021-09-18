@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lloyd</h1>
 <h3 align="center">A passionate Front End Developer & Designer from Leicester, United Kingdom</h3>
 
+&nbsp;
 
 - 🔭 I’m currently working on [Arclight Music](https://www.arclightpromotions.co.uk/)
 
