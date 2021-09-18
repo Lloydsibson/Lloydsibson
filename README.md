@@ -15,7 +15,9 @@
 
 - 📄 Know about my experiences [https://bit.ly/3EuGsfv](https://bit.ly/3EuGsfv)
 
-- ⚡ Fun fact **Worked with over 130+ clients in a freelance capacity. Also I've worked with big brand names such as Rolex, Gucci, Armani, Omega, TAG etc**
+- ⚡ Fun fact **Worked with over 130+ clients in a freelance capacity nad I've worked with big brand names such as Rolex, Gucci, Armani, Omega, TAG etc**
+
+&nbsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
