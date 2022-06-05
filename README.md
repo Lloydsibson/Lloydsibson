@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lloydsibson@gmail.com**
 
-- 📄 Find my latest CV [https://bit.ly/3EuGsfv](here)
+- 📄 Find my latest CV [here](https://bit.ly/3EuGsfv)
 
 - ⚡ Fun fact **I was the dedicated Front End Developer for Rolex at the largest retailer of Rolex Watches in the UK**
 
