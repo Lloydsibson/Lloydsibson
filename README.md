@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Next](https://www.next.co.uk/)
 
-- 🌱 I’m currently learning **Gatsby, GraphQL, & Web Accessibility**
+- 🌱 I’m currently learning **React, React Context, & Web Accessibility**
 
 - 👨‍💻 See my portfolio website at [https://www.lloydsibson.com](https://www.lloydsibson.com)
 
