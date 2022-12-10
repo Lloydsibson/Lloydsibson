@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Next](https://www.next.co.uk/)
 
-- 🌱 I’m currently learning **React, Redux, & TypeScript**
+- 🌱 I’m currently learning **React & TypeScript**
 
 - 👨‍💻 See my portfolio website at [https://www.lloydsibson.com](https://www.lloydsibson.com)
 
