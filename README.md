@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydsibson&label=Profile%20views&color=0e75b6&style=flat" alt="lloydsibson" /> </p>
 
-- 🔭 I’m currently working at [Next](https://www.next.co.uk/)
+- 🔭 I’m currently working at [...](https://.../)
 
 - 🌱 I’m currently learning **React & TypeScript**
 
