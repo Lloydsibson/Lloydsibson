@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydsibson&label=Profile%20views&color=0e75b6&style=flat" alt="lloydsibson" /> </p>
 
-- 🔭 I’m currently working at [...](https://.../)
+- 🔭 I’m currently working at [Next](https://www.next.co.uk/)
 
-- 🌱 I’m currently learning **React & TypeScript**
+- 🌱 I’m currently learning **Next.js & TypeScript**
 
 - 👨‍💻 See my portfolio website at [https://www.lloydsibson.com](https://www.lloydsibson.com)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lloydsibson@gmail.com**
 
-- 📄 Find my latest CV [here](https://www.lloydsibson.com/#/about)
+- 📄 Find my latest CV [here](https://www.lloydsibson.com/about)
 
 - ⚡ Fun fact **I've been playing guitar since 2010**
 
