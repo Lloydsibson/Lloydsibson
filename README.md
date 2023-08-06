@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front End Developer & UI/UX Designer from Leicester, United Kingdom</h3>
 
 <br>
-<a href="https://app.daily.dev/lloydsibson"><img src="https://api.daily.dev/devcards/a895672130af4b01b30c48e5a462c48a.png?r=hu4" width="300" alt="Lloyd Sibson's Dev Card"/></a>
+<a href="https://app.daily.dev/lloydsibson"><img src="https://api.daily.dev/devcards/a895672130af4b01b30c48e5a462c48a.png?r=4l7" width="400" alt="Lloyd Sibson's Dev Card"/></a>
 <br>
 <br>
 
