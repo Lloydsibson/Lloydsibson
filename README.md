@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lloyd Sibson BA</h1>
 <h3 align="center">A passionate Front End Developer & Designer from Leicester, United Kingdom</h3>
 
-<br>
-<a href="https://app.daily.dev/lloydsibson"><img src="https://api.daily.dev/devcards/a895672130af4b01b30c48e5a462c48a.png?r=4l7" width="400" alt="Lloyd Sibson's Dev Card"/></a>
-<br>
-<br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydsibson&label=Profile%20views&color=0e75b6&style=flat" alt="lloydsibson" /> </p>
 
 - 🔭 I’m currently working at [Next](https://www.next.co.uk/)
