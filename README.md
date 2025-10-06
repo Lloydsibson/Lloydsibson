@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Lloyd Sibson BA</h1>
-<h3 align="center">A passionate Front End Developer & Designer from Nottingham, United Kingdom</h3>
+<h3 align="center">A passionate CRO Developer, Front End Developer & UI/UX Designer from the United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lloydsibson&label=Profile%20views&color=0e75b6&style=flat" alt="lloydsibson" /> </p>
 
-- 🔭 I’m currently working at [Next](https://www.next.co.uk/)
+- 🔭 I’m currently working at [British Gas](https://www.britishgas.co.uk/) as their CRO Developer
 
-- 🌱 I’m currently learning **Next.js & TypeScript**
+- 🌱 I’m currently learning **Adobe Target & Adobe Analytics**
 
 - 👨‍💻 See my portfolio website at [https://www.lloydsibson.com](https://www.lloydsibson.com)
 
-- 💬 Ask me about **HTML, CSS, SASS, JavaScript, React**
+- 💬 Ask me about **AB Testing, Personalisation, Front-End Development (HTML, CSS, SASS, JavaScript, React)**
 
 - 📫 How to reach me **lloydsibson@gmail.com**
 
 - 📄 Find my latest CV [here](https://www.lloydsibson.com/about)
 
-- ⚡ Fun fact **I've been playing guitar since 2010**
+- ⚡ Fun fact **I play in a band called [Falling Below](https://www.fallingbelow.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
