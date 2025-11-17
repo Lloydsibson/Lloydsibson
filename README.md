@@ -15,7 +15,7 @@
 
 - 📄 Find my latest CV [here](https://www.lloydsibson.com/about)
 
-- ⚡ Fun fact **I play in a band called [Falling Below](https://www.fallingbelow.com/)**
+- ⚡ Fun fact **I play bass guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
